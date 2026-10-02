@@ -1,0 +1,12 @@
+=== ORDER RECEIPT ===
+Customer Name: ww
+Address: qqq
+Phone: 123
+Order Type: Dine-In
+Table: 3
+
+Items Ordered:
+- 3 Pieces Fried Chicken x5 = 175.00 EGP
+
+Total Amount: 175.00 EGP
+====================

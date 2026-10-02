@@ -1,0 +1,15 @@
+=== ORDER RECEIPT ===
+Order #: 2
+Date: 2026-10-03 01:27:29
+Customer Name: abcd
+Address: adv
+Phone: 1236324
+Order Type: Takeaway
+
+Items Ordered:
+- Cheese Pizza x1 = 40.00 EGP
+- Diet Pepsi x1 = 15.00 EGP
+- 9 Pieces Fried Chicken x1 = 25.00 EGP
+
+Total Amount: 80.00 EGP
+====================

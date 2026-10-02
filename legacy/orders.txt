@@ -1,0 +1,2 @@
+ 1,adsfw,dasdvfswd,2222,Takeaway,0,Accepted,Fri May 09 18:14:31 2025,70,receipts\receipt_1.txt,Twister Sandwich:2
+1,ww,qqq,123,Dine-In,3,Accepted,Fri May 09 18:19:37 2025,175,receipts\receipt_1.txt,3 Pieces Fried Chicken:5

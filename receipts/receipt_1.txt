@@ -1,0 +1,15 @@
+=== ORDER RECEIPT ===
+Order #: 1
+Date: 2026-10-03 01:07:51
+Customer Name: abcd
+Address: fjy
+Phone: 67709897709
+Order Type: Takeaway
+
+Items Ordered:
+- 9 Pieces Fried Chicken x1 = 25.00 EGP
+- French Fries x1 = 15.00 EGP
+- Pepperoni Pizza x1 = 50.00 EGP
+
+Total Amount: 90.00 EGP
+====================

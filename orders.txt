@@ -1,0 +1,2 @@
+1,abcd,fjy,67709897709,Takeaway,0,Pending,2026-10-03 01:07:51,90.00,receipts\receipt_1.txt,9 Pieces Fried Chicken:1;French Fries:1;Pepperoni Pizza:1,abcd
+2,abcd,adv,1236324,Takeaway,0,Pending,2026-10-03 01:27:29,80.00,receipts\receipt_2.txt,Cheese Pizza:1;Diet Pepsi:1;9 Pieces Fried Chicken:1,abcd

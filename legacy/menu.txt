@@ -1,0 +1,23 @@
+1,Ranch Pizza,Pizzas,75,20
+2,BBQ Pizza,Pizzas,80,20
+3,Margherita Pizza,Pizzas,70,20
+4,Pepperoni Pizza,Pizzas,50,20
+5,Chicken Pizza,Pizzas,55,20
+6,Cheese Pizza,Pizzas,40,20
+7,Twister Sandwich,Sandwiches,35,14
+8,Chicken Fillet Sandwich,Sandwiches,40,20
+9,Zinger Sandwich,Sandwiches,30,20
+10,Grand Chicken Sandwich,Sandwiches,30,20
+11,3 Pieces Fried Chicken,Fried Chicken,35,10
+12,9 Pieces Fried Chicken,Fried Chicken,25,20
+13,French Fries,Side Items,15,20
+14,Regular Pepsi,Drinks,15,20
+15,Diet Pepsi,Drinks,15,20
+16,Orange Juice,Drinks,10,20
+17,12 Pieces Fried Chicken,Fried Chicken,180,20
+18,Mineral Water,Drinks,10,20
+19,7UP,Drinks,15,20
+20,Fanta,Drinks,15,20
+21,Offer 1: 2 Pizzas + Pepsi,Offers,140,20
+22,Offer 2: 1 Pizza + Twister + Pepsi,Offers,110,20
+23,Offer 3: Fried Chicken + Twister + Fries + Pepsi,Offers,130,20
